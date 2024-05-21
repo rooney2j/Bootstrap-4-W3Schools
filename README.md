@@ -5,5 +5,6 @@ Existen algunos módulos que requieren jQuery, y que en las versiones actualizad
 28: Tooltips
 29: Popover
 30: Toast
+36: Filters
 
 Se recomienda revisar la nueva documentación
